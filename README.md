@@ -131,6 +131,3 @@ Follow the instructions below to set up the project on your local machine for de
 
 Any contributions you make are greatly appreciated.
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
